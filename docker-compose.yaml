@@ -6,7 +6,7 @@ volumes:
 services:
 
   mongo:
-    image: mongo
+    image: mongo:4.4.10
     ports:
       - 27017:27017
     volumes:
