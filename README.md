@@ -2,7 +2,7 @@
 на Flask'e c MongoDB
 
 [*Сайт с приложением*](https://dreams.lucky-spb.online/)
-
+![image](https://user-images.githubusercontent.com/62309571/142728113-2f44fc9f-fbf5-476c-8162-9f67e6236018.png)
 ## Используемые библиотеки 
 - Flask
 - PyMongo
