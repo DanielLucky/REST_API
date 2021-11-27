@@ -23,8 +23,8 @@
 - Flask
 - PyMongo
 
-## Посмотреть (Postman)
-Добавил коллекцию в Postman для Вашего удобства [*тык*](https://www.postman.com/joint-operations-meteorologist-16026518/workspace/rest-api/request/17461733-a45dac03-52bd-4b6a-886a-1173daa6597c)
+## Документация
+Для Вашего удобства [*тык*](https://documenter.getpostman.com/view/17461733/UVJbJy2r)
 
 
 ## Функции 
